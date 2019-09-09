@@ -30,7 +30,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 
 <head>
-	<title>Augment an Admin Panel Category Flat Bootstrap Responsive Web Template | Home :: w3layouts</title>
+	<title>Gestion Scolaire | Home :: ibrahimcheik</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="keywords" content="Augment Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -107,7 +107,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				
 				<!--footer section start-->
 				<footer>
-					<p>&copy 2018 Augment . All Rights Reserved | Design by <a href="https://w3layouts.com/" target="_blank">W3layouts.</a> and Develop By Ravi Khadka</p>
+					<p>&copy 2019 Augment . All Rights Reserved | Design by <a href="https://www.facebook.com/lecheikibra" target="_blank">Amadou Moussa Ibrahim.</a> and Touch by ibrahimcheik</p>
 				</footer>
 				<!--footer section end-->
 			</div>
@@ -116,7 +116,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<!--/sidebar-menu-->
 		<div class="sidebar-menu">
 			<header class="logo">
-				<a href="#" class="sidebar-icon"> <span class="fa fa-bars"></span> </a> <a href="index.html"> <span id="logo"> <h1>MeRavi</h1></span> 
+				<a href="#" class="sidebar-icon"> <span class="fa fa-bars"></span> </a> <a href="index.html"> <span id="logo"> <h1>ibrahimcheik</h1></span> 
 					<!--<img id="logo" src="" alt="Logo"/>--> 
 				  </a>
 			</header>
