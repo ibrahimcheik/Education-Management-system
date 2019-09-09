@@ -1,15 +1,7 @@
-
-<!--
-	Author: W3layouts
-	Developed By Ravi Khadka
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-<title>Scholarly an Education Category Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>Gestion Scolaire | Home :: Ibrahimcheik</title>
 <!-- Meta tag Keywords -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -629,7 +621,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 </div>
 <div class="w3layouts_copy_right">
 	<div class="container">
-		<p>© <?php echo $general_fetch['website_start']; ?> - 2018 Scholarly. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts.</a> Developed By Ravi Khadka</p>
+		<p>© <?php echo $general_fetch['website_start']; ?> - 2018 Scholarly. All rights reserved | Design by <a href="http://w3layouts.com">AJID NIGER.</a> Coded By Ibrahimcheik</p>
 	</div>
 </div>
 	<?php } else{ ?>
