@@ -7,7 +7,7 @@ class project2
 	public $server = "localhost";
 	public $username = "root";
 	public $password = "";
-	public $dbname = "project2";
+	public $dbname = "march9";
 	public $connectdb;
 	
 	function __construct()
